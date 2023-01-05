@@ -7,3 +7,6 @@ By using dashboards, you will discover the right insights in an easy way. You ca
 
 1. Orginal Power BI files are uploaded in .pbix format. 
 2. For the preview purposes, pdf exports are provided, however the interactive features cannot be used in the pdf format.
+
+
+Disclaimer: all data used in the dashboards are mock data with no real life correlations
